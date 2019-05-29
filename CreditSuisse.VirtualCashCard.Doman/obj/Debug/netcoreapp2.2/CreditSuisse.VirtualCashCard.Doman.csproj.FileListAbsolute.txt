@@ -1,9 +1,0 @@
-C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman\obj\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.csprojAssemblyReference.cache
-C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman\obj\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.csproj.CoreCompileInputs.cache
-C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman\obj\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.AssemblyInfoInputs.cache
-C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman\obj\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.AssemblyInfo.cs
-C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman\bin\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.deps.json
-C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman\bin\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.dll
-C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman\bin\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.pdb
-C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman\obj\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.dll
-C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman\obj\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.pdb
