@@ -1,0 +1,17 @@
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\bin\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.UnitTests.deps.json
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\bin\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.UnitTests.runtimeconfig.json
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\bin\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.UnitTests.runtimeconfig.dev.json
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\bin\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.UnitTests.dll
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\bin\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.UnitTests.pdb
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\obj\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.UnitTests.csprojAssemblyReference.cache
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\obj\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.UnitTests.csproj.CoreCompileInputs.cache
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\obj\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.UnitTests.AssemblyInfoInputs.cache
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\obj\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.UnitTests.AssemblyInfo.cs
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\obj\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.UnitTests.dll
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\obj\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.UnitTests.pdb
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\bin\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.dll
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\bin\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.pdb
+C:\Source\CreditSuisse.VirtualCashCard\CreditSuisse.VirtualCashCard.Doman.UnitTests\obj\Debug\netcoreapp2.2\CreditSuisse.VirtualCashCard.Doman.UnitTests.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CreditSuisse.VirtualCashCard.Console": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
