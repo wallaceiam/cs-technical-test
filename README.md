@@ -22,11 +22,11 @@ docker run creditsuissevirtualcashcardconsole:dev
 
 Since a virtual cash card was effectively a bank account I approached it as such.  I use a very striped down implementation of CRQS with commands (no read side) and an in-memory Event Stream.  This approach should guarantee a cash card can't be overdrawn.
 
-There a probably way to many classes based on the specification below; however, a) most of them are simply POCOs and b) I feel it helps code readability.
+There are probably way too many classes based on the specification below; however, a) most of them are simply POCOs and b) I feel it helps code readability.
 
 ### Technology
 
-.NET Core 2.2, Visual Studio 2019, Microsoft Dependency Injection, Very Light CQRS/ES Implementation, xUnit, xBehavior, Moq, FluentAssertions and last but not least a little Docker for fun
+.NET Core 2.2, Visual Studio 2019, Microsoft Dependency Injection, a very light CQRS/ES implementation, xUnit, xBehavior, Moq, FluentAssertions and last but not least a little Docker for fun
 
 ### If I had more time
 

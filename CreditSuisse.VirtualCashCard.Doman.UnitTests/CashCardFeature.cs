@@ -12,7 +12,7 @@ namespace CreditSuisse.VirtualCashCard.Doman.UnitTests
 {
     // In order to build complicated virtual cash cards
     // As a professional software developer with excellent skills
-    // I want a cash card top be able to perform basic top up and withdraws
+    // I want a cash card to be able to perform basic top up and withdraws actions
     public class CashCardFeature
     {
         [Scenario]
@@ -43,7 +43,7 @@ namespace CreditSuisse.VirtualCashCard.Doman.UnitTests
                     cashCard = new CashCard();
                     cashCard.LoadEventsFromHistory(new[] { new CashCardCreated(id, "1234", 0) });
                 });
-            "When I top up £50"
+            "When I top up ï¿½50"
                 .x(() => cashCard.TopUp(50.00M));
             "Then the cash card should raise a top up event"
                 .x(() =>
@@ -59,7 +59,7 @@ namespace CreditSuisse.VirtualCashCard.Doman.UnitTests
         [Scenario]
         public void CashCard_ShouldWithdraw(Guid id, CashCard cashCard)
         {
-            "Given there is a cash card with a £50 balance"
+            "Given there is a cash card with a ï¿½50 balance"
                 .x(() =>
                 {
                     id = Guid.NewGuid();
@@ -69,7 +69,7 @@ namespace CreditSuisse.VirtualCashCard.Doman.UnitTests
                         new CashCardToppedUp(id, 50.00M, 1)
                     });
                 });
-            "When I with draw £50"
+            "When I with draw ï¿½50"
                 .x(() => cashCard.Withdraw("1234", 50.00M));
             "Then the cash card should raise a with draw event"
                 .x(() =>
