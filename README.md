@@ -20,9 +20,9 @@ docker run creditsuissevirtualcashcardconsole:dev
 
 ### Approach
 
-Since a virtual cash card was effectively a bank account I approached it as such.  I use a very striped down implementation of CRQS with commands (no read side) and an in-memory Event Stream.  This approach should guarantee a cash card can't be overdrawn.
+Since a virtual cash card was effectively a bank account I approached it as such - though I didn't want to go down the whole double entry ledger system.  I use a very striped down implementation of CRQS with commands (no read side) and an in-memory Event Stream.  This approach should guarantee a cash card can't be overdrawn even if it is used simultaneously in two places.
 
-There are probably way too many classes based on the specification below; however, a) most of them are simply POCOs and b) I feel it helps code readability.
+There are probably more classes than desired by the specification below; however, a) most of them are simple POCOs and b) I feel it helps code readability. It does follow the principle of 'Write the code as you would write a part of a production grade system.'
 
 ### Technology
 
